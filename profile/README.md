@@ -1,11 +1,15 @@
 # [Hedon haven (project website)](https://hedon-haven.top/)
+
 An adult content aggregator app.
+
 ## Features:
-* **Supports many Providers:** Supported providers include: Pornhub, xHamster and many more (coming soon).  
-* **Completely Free:** Full access to all features with no hidden fees or subscriptions.  
-* **Offline viewing:** Download content for offline viewing from any provider (coming soon).  
-* **Easy management:** Favorite videos, subscriptions (coming soon), and watch history all in one place.  
-* **Privacy-Focused:** Designed with privacy-first principles to ensure data security and discretion (coming soon).  
-* **Open Source:** Free and open-source, allowing anyone to contribute or verify the app security.  
-* **Modern Design:** A sleek and intuitive interface built with Flutter.  
-* **Supports all platforms:** iOS (coming soon), Android, Windows (coming soon), MacOS (coming soon) and Linux (flatpak coming soon).  
+
+* **Supports many providers:** Pornhub, xHamster and more (coming soon).
+* **Completely free:** Full access to all features with no hidden fees or subscriptions.
+* **Open Source:** Complete transparency and security with the entire application source code
+  publicly available.
+* **Offline viewing:** Download content for offline viewing from any provider (coming soon).
+* **Easy management:** Favorites, subscriptions (coming soon), and watch history all in one place.
+* **Privacy-focused:** Designed with privacy-first principles (coming soon).
+* **Modern design:** A sleek and intuitive interface built with Flutter.
+* **Cross-platform:** Android, iOS (coming soon), Windows, macOS and Linux (coming later). 
